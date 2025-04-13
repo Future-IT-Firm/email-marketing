@@ -2,3 +2,4 @@ OpenBullet-Office.zip filter=lfs diff=lfs merge=lfs -text
 config.ini filter=lfs diff=lfs merge=lfs -text
 filter.cpp filter=lfs diff=lfs merge=lfs -text
 ulp.cpp filter=lfs diff=lfs merge=lfs -text
+Azure[[:space:]]Method.zip filter=lfs diff=lfs merge=lfs -text
